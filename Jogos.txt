@@ -1,0 +1,18 @@
+Nome do jogo...............: ATERIO
+Ano de lançamento..........: 1976
+Gênero.....................: AçAO
+Produtora do jogo..........: ATARIO
+Valor......................: 100.00
+
+Nome do jogo...............: MARIO
+Ano de lançamento..........: 2000
+Gênero.....................: AVENTURA
+Produtora do jogo..........: NINTENDO
+Valor......................: 100.00
+
+Nome do jogo...............: ZELDA
+Ano de lançamento..........: 1990
+Gênero.....................: AVENTURA
+Produtora do jogo..........: NINTENDO
+Valor......................: 100.00
+
